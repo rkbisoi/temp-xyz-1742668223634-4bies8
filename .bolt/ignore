@@ -1,0 +1,12 @@
+src/components/application
+src/components/data
+src/components/notification
+src/components/knowledge
+src/components/profile
+src/components/scheduler
+src/components/users
+src/components/test/executionLog
+src/components/test/testCase
+src/components/test/testLog
+src/components/test/testsuite
+src/mockData
